@@ -39,7 +39,7 @@ A powerful and feature-rich ASCII art generator built with Python and Tkinter. C
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ascii-art-generator.git
+git clone https://github.com:FadiBrahem/ASCII.git
 
 # Install required packages
 pip install -r requirements.txt
